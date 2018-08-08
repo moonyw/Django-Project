@@ -15,14 +15,14 @@ You may add/delete/modify JSON metafiles found in `/metafiles` in the following 
     "date": "Dec 1, 2015 13:10:59",
     "filename": "virus2.exe",
     "action": "files-deleted",
-    "submit-type": "FG300B3910602113/root", 
+    "submit-type": "AB12312312312345", 
     "rating": "malicious"
   },
   {
     "date": "Mar 12, 2015 13:12:59",
     "filename": "safe2.exe",
     "action": "files-added",
-    "submit-type": "FG300B3910602113/root", 
+    "submit-type": "AB12312312312346", 
     "rating": "clean"
   }
 ]
